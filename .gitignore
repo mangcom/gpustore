@@ -1,5 +1,6 @@
 .env
-/public/uploads/*
+/public/uploads/products/originals/*
+/public/uploads/products/thumbnails/*
 # CakePHP 3
 
 /vendor/*

@@ -166,9 +166,9 @@ $manufacturers = $pdo->query("SELECT * FROM manufacturers ORDER BY name ASC")->f
             <h1 class="text-3xl font-bold text-slate-800">
                 <?= $productId ? '✏️ แก้ไขสินค้า' : '📦 เพิ่มสินค้าใหม่' ?>
             </h1>
-            <a href="#" class="bg-slate-600 hover:bg-slate-700 text-white px-4 py-2 rounded-md transition">
-                กลับหน้ารายการสินค้า
-            </a>
+            <a href="index.php" class="bg-slate-600 hover:bg-slate-700 text-white px-4 py-2 rounded-md transition">
+    กลับหน้ารายการสินค้า
+</a>
         </div>
         <div class="flex justify-between items-center mb-6">
     <h1 class="text-3xl font-bold text-slate-800">📦 จัดการข้อมูลสินค้า</h1>

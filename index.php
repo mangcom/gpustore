@@ -1,1 +1,4 @@
-Hello
+<?php
+header('Location: public/');
+exit();
+?>

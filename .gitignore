@@ -1,4 +1,5 @@
 .env
+/public/uploads/*
 # CakePHP 3
 
 /vendor/*

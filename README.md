@@ -10,6 +10,8 @@ DB_DATABASE=gpu_store
 DB_USERNAME=root
 DB_PASSWORD=your_secure_password_here
 DB_CHARSET=utf8mb4
+ADMIN_USERNAME=superadmin
+ADMIN_PASSWORD=superpassword123
 
 # -----------------------------------------------------
 # Application Configuration
